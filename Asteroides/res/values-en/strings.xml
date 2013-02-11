@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroides</string>
+    <string name="Arrancar">Play</string>
+    <string name="Configurar">Setup</string>
+    <string name="AcercaDe">About</string>
+    <string name="Salir">Quit</string>
+    <string name="menu_settings">Menu settings</string>
+    <string name="NombreApp">Asteroids</string><color name="ColorFondoTablet">#80FF0000</color>
+
+</resources>
